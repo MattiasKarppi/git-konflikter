@@ -1,0 +1,21 @@
+.calculator {
+    width: 200px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  input {
+    width: 90%;
+    margin: 5px 0;
+    padding: 5px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  
+  div {
+    margin-top: 10px;
+  }
+  
